@@ -1,0 +1,30 @@
+.AddJob-Form-Field {
+    margin: 0.8rem auto;
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    /* border: 2px solid red; */
+}
+
+.AddJob-Form-Field input {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    /* border: 2px solid blue; */
+
+}
+
+.AddJob-Form {
+    margin: 1rem 0;
+}
+
+.AddJob-Form-Field label {
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+
+.AddJob-Form button {
+    margin: 0 1rem;
+}

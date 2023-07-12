@@ -1,0 +1,21 @@
+.UserProfile-Applications {
+    margin: 2rem 0;
+}
+
+
+.UserProfile-Applications-List {
+    list-style: none;
+}
+
+.UserProfile-Applications-List-Item {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid navy;
+    margin: 1rem 0;
+}
+
+.UserProfile-Info-Admin-Btns button {
+    margin: 1rem 1rem;
+    padding: 0.7rem;
+    font-weight: 500;
+}

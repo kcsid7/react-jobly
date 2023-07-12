@@ -1,0 +1,55 @@
+.JobCard {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    box-shadow: -5px -5px 5px darkgray, 5px 5px 5px gray;
+
+}   
+
+
+.JobCard-Header {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid black;
+    margin: 1rem 0;
+}
+
+.JobCard-Body {
+    padding: 1rem 0;
+}
+
+
+.JobCard-Body button{
+    /* border: 2px solid green; */
+    border: none;
+    /* background-color: wheat; */
+    padding: 0.5rem;
+    font-size: 1.1rem;
+    margin: 0.7rem 1rem;
+    font-weight: 500;
+}
+
+.DetailsBtn {
+    cursor: pointer;
+    background-color: wheat;
+    box-shadow: -5px -5px 5px darkgray, 5px 5px 5px darkgray;
+}
+
+.ApplyBtn {
+    background-color: rgba(0, 128, 0, 0.799);
+    box-shadow: -5px -5px 5px lightgreen, 5px 5px 5px darkgreen;
+    color: white;
+    cursor: pointer;
+}
+
+.ApplyBtn-Applied {
+    background-color: rgba(0, 0, 128, 0.807);
+    box-shadow: -5px -5px 5px lightskyblue, 5px 5px 5px darkblue;
+    color: white;
+}
+
+.EditBtn {
+    background-color: seagreen;
+    color: white;
+}
+

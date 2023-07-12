@@ -1,0 +1,15 @@
+.CompanyDetails-Body {
+    margin: 1rem 0;
+}
+
+
+.CompanyDetails-Job {
+    margin: 1.5rem 0;
+    padding: 1rem 0;
+    box-shadow: -5px -5px 5px gray, 5px 5px 5px gray;
+}
+
+.Admin-Btn-Grp button {
+    margin: 1rem 1rem;
+    padding: 0.7rem;
+}

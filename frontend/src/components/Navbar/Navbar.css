@@ -1,0 +1,21 @@
+.Navbar {
+    display: flex;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    padding: 1.3rem 1rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.Navbar a {
+    margin: 0 1rem;
+}
+
+.Owner {
+    background-color: rgba(46, 138, 86, 0.8);
+}
+
+.Navlink-White {
+    color: white;
+}

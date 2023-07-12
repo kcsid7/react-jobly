@@ -1,0 +1,13 @@
+.UserList-List {
+    margin: 1rem 0; 
+
+}
+
+.UserList {
+    display: flex;
+    flex-direction: column;
+}
+
+.UserList-List-Item {
+    margin: 1rem 0;
+}

@@ -1,0 +1,23 @@
+.JobDetails {
+    margin: 2rem 0;
+}
+
+.JobDetails-Header {
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.JobDetails-Body {
+    border: 2px solid green;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.JobDetails-Body-Salary {
+    display: flex;
+    justify-content: space-around;
+}

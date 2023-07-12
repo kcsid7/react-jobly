@@ -1,0 +1,37 @@
+.EditCompany-Form-Field {
+    margin: 0.8rem auto;
+    display: flex;
+    flex-direction: column;
+    width: 65%;
+    /* border: 2px solid red; */
+}
+
+.EditCompany-Form-Field input {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    /* border: 2px solid blue; */
+
+}
+
+.EditCompany-Form {
+    margin: 1rem 0;
+}
+
+.EditCompany-Form-Field label {
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+
+.EditCompany-Form button {
+    margin: 0 1rem;
+    padding: 0.7rem;
+}
+
+.EditCompany-Form-Field textarea {
+    width: 70%;
+    align-self: center;
+    text-align: center;
+}

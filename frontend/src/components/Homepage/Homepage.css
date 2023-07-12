@@ -1,0 +1,21 @@
+.Homepage{
+
+}
+
+.Homepage-Header{
+    font-size: 4rem;
+}
+
+.Homepage-Body{
+
+    height: 60vh;
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Homepage-Body-Links {
+    /* border: 2px solid red; */
+}
